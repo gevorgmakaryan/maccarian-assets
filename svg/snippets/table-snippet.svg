@@ -1,0 +1,45 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="160" height="160" fill="#F7F9FC"/>
+<rect x="10" y="26" width="139" height="108" rx="4" fill="white"/>
+<g clip-path="url(#clip0)">
+<rect x="17" y="44" width="125" height="96" fill="#F7F9FC"/>
+<path d="M142 140L142 44" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M121.168 140L121.168 44" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M79.5 140L79.5 44" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M37.832 140L37.832 44" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M142 56H17" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M142 68H17" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M142 80H17" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M142 92H17" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M142 104H17" stroke="#EDF1F7" stroke-width="0.2"/>
+<path d="M142 116H17" stroke="#EDF1F7" stroke-width="0.2"/>
+<rect x="82" y="49" width="36" height="3" rx="1" fill="#EDF1F7"/>
+<rect x="41" y="49" width="36" height="3" rx="1" fill="#EDF1F7"/>
+<rect x="24" y="47" width="7" height="7" rx="3.5" fill="#EDF1F7"/>
+<line x1="21" y1="62" x2="34" y2="62" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="62" x2="74" y2="62" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="85" y1="62" x2="115" y2="62" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="62" x2="134" y2="62" stroke="#1976D2" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="74" x2="134" y2="74" stroke="#1976D2" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="86" x2="134" y2="86" stroke="#1976D2" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="98" x2="134" y2="98" stroke="#1976D2" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="110" x2="134" y2="110" stroke="#1976D2" stroke-width="2" stroke-linecap="round"/>
+<line x1="85" y1="74" x2="115" y2="74" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="85" y1="86" x2="115" y2="86" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="85" y1="98" x2="115" y2="98" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="85" y1="110" x2="115" y2="110" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="74" x2="74" y2="74" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="86" x2="74" y2="86" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="98" x2="74" y2="98" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="110" x2="74" y2="110" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="21" y1="74" x2="34" y2="74" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="21" y1="86" x2="34" y2="86" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="21" y1="98" x2="34" y2="98" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+<line x1="21" y1="110" x2="34" y2="110" stroke="#EDF1F7" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect x="17" y="44" width="125" height="72" rx="2" fill="white"/>
+</clipPath>
+</defs>
+</svg>
